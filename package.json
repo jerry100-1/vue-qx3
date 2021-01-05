@@ -14,7 +14,7 @@
     "@better-scroll/core": "^2.0.0-alpha.19",
     "@better-scroll/pull-down": "^2.0.0-alpha.19",
     "@better-scroll/pull-up": "^2.0.0-alpha.19",
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "bignumber.js": "^8.0.1",
     "html2canvas": "^1.0.0-alpha.12",
     "imagesloaded": "^4.1.4",
